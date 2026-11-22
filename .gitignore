@@ -1,0 +1,26 @@
+# Maven & Spring Boot
+citas-backend/target/
+citas-backend/.mvn/wrapper/maven-wrapper.jar
+citas-backend/HELP.md
+
+# Node & Frontend
+citas-frontend/node_modules/
+citas-frontend/dist/
+citas-frontend/dist-ssr/
+*.local
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.sw?
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS metadata
+.DS_Store
+Thumbs.db
